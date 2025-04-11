@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: bf40b07ec2b0a574e9d0b9e01a61a2eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -302716865785298262
+    second: pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_0
+  - first:
+      213: -1911523746692633394
+    second: pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_1
+  - first:
+      213: 3732149852535053257
+    second: pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_2
+  - first:
+      213: 2772673522039702647
+    second: pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_3
+  - first:
+      213: 7046340963720233537
+    second: pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_4
+  - first:
+      213: 2717253200844247342
+    second: pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_5
+  - first:
+      213: 7289729661097561350
+    second: pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_6
+  - first:
+      213: 7501914563893889892
+    second: pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_7
+  - first:
+      213: 6326172234528518065
+    second: pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_8
+  - first:
+      213: 3025501034367962988
+    second: pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_9
+  - first:
+      213: -5212772544896154450
+    second: pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 428
+        width: 104
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2095b4d988ccbf0800000000000000
+      internalID: -302716865785298262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 437
+        width: 135
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc69a2b747e875e0800000000000000
+      internalID: -1911523746692633394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 444
+        width: 102
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbd0e064824bc330800000000000000
+      internalID: 3732149852535053257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 288
+        width: 125
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774ce47c0e38a7620800000000000000
+      internalID: 2772673522039702647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 286
+        width: 105
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14204dcf5c1a9c160800000000000000
+      internalID: 7046340963720233537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 312
+        width: 145
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e215d19b36f95b520800000000000000
+      internalID: 2717253200844247342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 180
+        width: 132
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d495e01825a2560800000000000000
+      internalID: 7289729661097561350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 145
+        width: 124
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b893c8c872c1860800000000000000
+      internalID: 7501914563893889892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 153
+        width: 126
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfe20b31241bc750800000000000000
+      internalID: 6326172234528518065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 41
+        width: 131
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f4415392dbcf920800000000000000
+      internalID: 3025501034367962988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 29
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea44e862df288a7b0800000000000000
+      internalID: -5212772544896154450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_0: -302716865785298262
+      pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_1: -1911523746692633394
+      pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_10: -5212772544896154450
+      pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_2: 3732149852535053257
+      pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_3: 2772673522039702647
+      pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_4: 7046340963720233537
+      pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_5: 2717253200844247342
+      pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_6: 7289729661097561350
+      pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_7: 7501914563893889892
+      pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_8: 6326172234528518065
+      pngtree-cartoon-hand-drawn-vegetables-and-fruits-food-png-image_8907109-removebg-preview_9: 3025501034367962988
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
